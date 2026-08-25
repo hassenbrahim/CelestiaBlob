@@ -1,4 +1,3 @@
-# CelestiaBlob: Federated CelestiaBlob orchestrates granular access control, event-driven ingestion, delivering resilient, composable, immutable data pipelines Node Implementation
 > Advanced python solution leveraging modern architecture patterns and cutting-edge technology.
 
 Federated CelestiaBlob orchestrates granular access control, event-driven ingestion, delivering resilient, composable, immutable data pipelines Node.
